@@ -19,8 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This part of the website is about me the author and the owner of this webpage. My name is Taha and my last name is Biklaryan (you may already knew that).
+To tell about myself a little bit, I'm now majoring in the Computer Engineering in the University of science and technology. To tell about the projects that i have done in the semester that i majored in this major i built a search engine for the Data Structure course (which is not so relevant to it). goofign around aside i realy am enjoying reading and learning about cybersecurity and i may choose this field as my permenant field of work.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+To tell you about other aspects of my life, I played basketball for many years and now i just see it as a hobby. I play electric guitar and it's been couple of years since i started it. I can speak english and it may not show on my writing and i may have some grammatical problems in writing this part but it's because of that i've been apart of the native speakers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This is all the things that i can think of to tell you about myself, hope i didn't bored you.
