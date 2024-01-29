@@ -3,7 +3,7 @@ layout: page
 title: Test project No.3
 description: this project contains a redirecting link
 img: assets/img/7.jpg
-redirect: [https://unsplash.com](https://codeforces.com/)
+redirect: [https://codeforces.com
 importance: 3
 category: work
 ---
